@@ -4,7 +4,7 @@ IT Diploma Student at Belgium Campus ITversity, specializing in Security.
 
 Passionate about Cybersecurity and digital protection.
 
-Seeking internships and entry-level oppertunities in the cybersecurity field, where i can apply my skills, continiue learning and contribute to protecting digital environments.
+Seeking internships and entry-level oppertunities in the cybersecurity field, where i can apply my skills, continue learning and contribute to protecting digital environments.
 
 ## Skills include:
 - Cybersecurity
